@@ -8,8 +8,11 @@ title: About
 </p>
 
 Occasional traveller
-Noctoral reader [Goodreads] ()
-Anime enthusist [MyAnimeList] ()
+
+Noctoral reader [Goodreads] (https://www.goodreads.com/user/show/8566222-prateek-bagri)
+
+Anime enthusist [MyAnimeList] (http://myanimelist.net/animelist/Prateek)
+
 Part time critic
 
 Reach out to me at:
